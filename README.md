@@ -4,7 +4,7 @@
 In this project, I focused on analyzing data related to the American series The Office. I assessed changes in its popularity over the years, taking into account controversial decisions of directors, such as the exclusion of Steve Carell from the cast. In addition, I conducted an analysis of the script with regard to the most frequently occurring words, as well as a sentiment analysis of the lines spoken by the characters.
 
 ## In this project, I demonstrate skills in the following areas:
-1. **Pandas and Numpy libraries** - Series and DataFrame data management.
+1. **Pandas and Numpy libraries** - Series and DataFrame management.
 2. **Matplotlib and Seaborn libraries** - creating plots.
 3. **NLTK, TextBlob libraries** - processing text data and sentiment analysis.
 4. General Python language skills - defining functions, using classes, creating loops.
